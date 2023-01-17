@@ -5,6 +5,10 @@ Lista dos 20 videos mais atuais do canal Me pope
 - deve baixar o app youtube no emulador pra rodar
 - consegue fazer pesquisa de vídeo
 
+https://developers.google.com/youtube/v3/docs/search/list?apix_params=%7B%22part%22%3A%5B%22snippet%22%5D%2C%22channelId%22%3A%22UCVHFbqXqoYvEWM1Ddxl0QDg%22%2C%22maxResults%22%3A20%2C%22order%22%3A%22date%22%7D
+
+https://developers.google.com/youtube/v3
+
 <img src="https://user-images.githubusercontent.com/72177982/212986026-5b961fff-1e9a-4b7f-bb67-06366c2f2af4.png" width="25%"> <img src="https://user-images.githubusercontent.com/72177982/212986043-91ec5681-e074-4372-8e00-e2e6631b5e8a.png" width="25%"> <img src="https://user-images.githubusercontent.com/72177982/212986070-c68da83d-c217-42c7-9dbc-5cc88b0e1c44.png" width="25%">
 
 <img src="https://user-images.githubusercontent.com/72177982/212986079-75aab336-8c49-4db0-b8fd-b628f18beaeb.png" width="25%">
